@@ -17,13 +17,34 @@ Si desea ver el documento completo presione "More Pages" en la parte inferior o 
 
 [Class_VentanaPrincipal](VentanaPrincipal.java)
 
-## Ejercicio 2.2
-[Class_Main](AppEjercicio22.java)
+## Ejercicio 8.3
+[Class_Main](AppEjercicio83.java)
 
-[Class_Planeta](Planeta.java)
+[Class_FiguraGeométrica](FiguraGeométrica.java)
 
-[Class_tipoPlaneta](tipoPlaneta.java)
+[Class_VentanaPrincipal](VentanaPrincipal.java)
 
+[Class_Cilindro](Cilindro.java)
+
+[Class_Esfera](Esfera.java)
+
+[Class_Pirámide](Pirámide.java)
+
+[Class_Cubo](Cubo.java)
+
+[Class_Prisma](Prisma.java)
+
+[Class_VentanaCilindro](VentanaCilindro.java)
+
+[Class_VentanaEsfera](VentanaEsfera.java)
+
+[Class_VentanaPirámide](VentanaPirámide.java)
+
+[Class_VentanaCubo](VentanaCubo.java)
+
+[Class_VentanaPrisma](VentanaPrisma.java)
+
+[Class_PanelFigura](PanelFigura.java)
 # Institución
 Universidad Nacional de Colombia, Sede Medellín
 
